@@ -1,0 +1,72 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "34272962",
+      "name": "安全",
+      "font_class": "anquan",
+      "unicode": "e647",
+      "unicode_decimal": 58951
+    },
+    {
+      "icon_id": "34272963",
+      "name": "编辑",
+      "font_class": "bianji",
+      "unicode": "e648",
+      "unicode_decimal": 58952
+    },
+    {
+      "icon_id": "34272966",
+      "name": "阿里",
+      "font_class": "ali",
+      "unicode": "e649",
+      "unicode_decimal": 58953
+    },
+    {
+      "icon_id": "34272967",
+      "name": "安卓",
+      "font_class": "anzhuo",
+      "unicode": "e64a",
+      "unicode_decimal": 58954
+    },
+    {
+      "icon_id": "34272968",
+      "name": "对钩-圆",
+      "font_class": "duigou-yuan",
+      "unicode": "e64b",
+      "unicode_decimal": 58955
+    },
+    {
+      "icon_id": "34272969",
+      "name": "单个文件",
+      "font_class": "dangewenjian",
+      "unicode": "e64c",
+      "unicode_decimal": 58956
+    },
+    {
+      "icon_id": "34272971",
+      "name": "代码",
+      "font_class": "daima",
+      "unicode": "e64d",
+      "unicode_decimal": 58957
+    },
+    {
+      "icon_id": "34272972",
+      "name": "多个文件 2",
+      "font_class": "a-duogewenjian2",
+      "unicode": "e64e",
+      "unicode_decimal": 58958
+    },
+    {
+      "icon_id": "34272974",
+      "name": "电脑",
+      "font_class": "diannao",
+      "unicode": "e64f",
+      "unicode_decimal": 58959
+    }
+  ]
+}
